@@ -1,6 +1,6 @@
 # ExpeMedic
 
-(https://github.com/acominf/ExpeMedic/blob/master/docs/heart.png)
+![Salud](https://github.com/acominf/ExpeMedic/blob/master/docs/heart.png)
 
 ## Objetivo de la aplicación
 Desarrollar todos los conceptos vistos en clases en una página Web
