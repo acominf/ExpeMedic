@@ -1,35 +1,36 @@
 # ExpeMedic
 
-![En construcción](https://upload.wikimedia.org/wikipedia/commons/e/ef/En_construccion.jpg)
+(http://insumed.com.mx/IMG/heart.png)
 
 ## Objetivo de la aplicación
-El objetivo de la aplicación es ...
+Desarrollar todos los conceptos vistos en clases en una página Web
 
 ## Descripción de la aplicación
-La descripción de la aplicación es ...
+Página web, que servirá para n doctores, en el cual cada uno de ellos podrá guardar los expedientes de cada uno de sus pacientes(radiografías, indicaciones, diagnóstico, etc). El sistema tambien servira como una agenda medica, donde los pacientes, podrán solicitar citas médicas con el doctor que guste, y en el día(según horarios y disponibilidad de cada doctor).
+
 
 ## Descripción funcional
 La descripción funcional de la aplicación es ...
 
-### Funcionalidad 1
-La descripción de la funcionalidad 1 es ...
+### Usuario administrador (Doctor) :
+- Cada doctor tendrá un identificador único.
+- Dar de alta a pacientes
+- Ver expedientes de cada paciente (Con el ID del paciente).
+- Llenar campos específicos para la creación del expediente del paciente (Datos personales, Antecedentes familiares patológicos, antecedentes personales patológicos, motivo consulta).
+- Cada paciente tendrá un apartado de archivos, donde se podran manejar radiografias, estudios de laboratorio, entre otros.
+- Aceptar citas (solicitadas por el paciente), de acuerdo a su disponibilidad.
 
-### Funcionalidad 2
-La descripción de la funcionalidad 2 es ...
 
-### Funcionalidad 3
-La descripción de la funcionalidad 3 es ...
+### Usuario cliente (Pacientes) :
+- Cada paciente tendrá un identificador único.
+- Tendrá que registrar su información personal para poder generar un identificador único.
+- Podrá solicitar cita con el doctor de su preferencia (Mediante el ID del doctor), según la disponibilidad de cada doctor.
 
-### Funcionalidad 4
-La descripción de la funcionalidad 4 es ...
 
-### Funcionalidad 5
-La descripción de la funcionalidad 5 es ...
 
-## Autor(es)
-El autor(es) del proyecto son:
-- Nombre completo del autor 1 (@nombreUsuarioGitHub)
-- Nombre completo del autor 2 (@nombreUsuarioGitHub)
+## Autor
+El autor del proyecto es:
+- Irma Patricia Delgado Solano (@irmads94)
 
 ## Materia(s)
 - Tecnologías Web
