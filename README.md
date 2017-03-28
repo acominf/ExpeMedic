@@ -6,11 +6,11 @@
 Desarrollar todos los conceptos vistos en clases en una página Web
 
 ## Descripción de la aplicación
-Página web, que servirá para n doctores, en el cual cada uno de ellos podrá guardar los expedientes de cada uno de sus pacientes(radiografías, indicaciones, diagnóstico, etc). El sistema tambien servira como una agenda medica, donde los pacientes, podrán solicitar citas médicas con el doctor que guste, y en el día(según horarios y disponibilidad de cada doctor).
+Página web para torre medica en la cual se podran solicitar consultas en linea con el doctor de su preferencia.
 
 
 ## Descripción funcional
-La descripción funcional de la aplicación es ...
+Página web, que servirá para n doctores, en el cual cada uno de ellos podrá guardar los expedientes de cada uno de sus pacientes(radiografías, indicaciones, diagnóstico, etc). El sistema tambien servira como una agenda medica, donde los pacientes, podrán solicitar citas médicas con el doctor que guste, y en el día(según horarios y disponibilidad de cada doctor).
 
 ### Usuario administrador (Doctor) :
 - Cada doctor tendrá un identificador único.
@@ -38,7 +38,11 @@ El autor del proyecto es:
 ## Semestre
 - 2016-2017/II
 
-## Markdown
+## Universidad Autonoma de San Luis Potosì
+## Facultad de Ingenierìa
+## Area de Computaciòn e Informatica
+## Tecnologias Web
+
 El contenido de esta página está escrito en un lenguaje de marcado sencillo llamado *Markdown*. Para más detalles consulta la página de [Markdown para GitHub](https://guides.github.com/features/mastering-markdown/).
 
 ## Temas de Jekyll
