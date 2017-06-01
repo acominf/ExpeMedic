@@ -2,6 +2,7 @@
 
 ![Salud](https://github.com/acominf/ExpeMedic/blob/master/docs/heart.png)
 
+
 ## Objetivo de la aplicación
 Desarrollar todos los conceptos vistos en clases en una página Web
 
@@ -29,6 +30,7 @@ Página web, que servirá para n doctores, en el cual cada uno de ellos podrá g
 ## Diagrama de componentes UML
 
 ## Diagrama Entidad-Relación 
+![DiagramaE-R](https://github.com/acominf/ExpeMedic/blob/master/docs/ERDiagram.png)
 
 ## Video
 
