@@ -8,7 +8,6 @@ Desarrollar todos los conceptos vistos en clases en una página Web
 ## Descripción de la aplicación
 Página web para torre medica en la cual se podran solicitar consultas en linea con el doctor de su preferencia.
 
-
 ## Descripción funcional
 Página web, que servirá para n doctores, en el cual cada uno de ellos podrá guardar los expedientes de cada uno de sus pacientes(radiografías, indicaciones, diagnóstico, etc). El sistema tambien servira como una agenda medica, donde los pacientes, podrán solicitar citas médicas con el doctor que guste, y en el día(según horarios y disponibilidad de cada doctor).
 
@@ -20,7 +19,6 @@ Página web, que servirá para n doctores, en el cual cada uno de ellos podrá g
 - Dar de alta a pacientes
 - Ver expedientes de cada paciente (Con el ID del paciente).
 - Llenar campos específicos para la creación del expediente del paciente (Datos personales, Antecedentes familiares patológicos, antecedentes personales patológicos, motivo consulta).
-- Cada paciente tendrá un apartado de archivos, donde se podran manejar radiografias, estudios de laboratorio, entre otros.
 - Aceptar citas (solicitadas por el paciente), de acuerdo a su disponibilidad.
 
 ### Usuario cliente (Pacientes) :
@@ -28,7 +26,14 @@ Página web, que servirá para n doctores, en el cual cada uno de ellos podrá g
 - Tendrá que registrar su información personal para poder generar un identificador único.
 - Podrá solicitar cita con el doctor de su preferencia (Mediante el ID del doctor), según la disponibilidad de cada doctor.
 
+## Diagrama de componentes UML
 
+## Diagrama Entidad-Relación 
+
+## Video
+
+## Enlace página
+http://148.224.194.33/expemedi
 
 ## Autor
 El autor del proyecto es:
