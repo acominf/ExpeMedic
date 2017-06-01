@@ -28,7 +28,7 @@ Página web, que servirá para n doctores, en el cual cada uno de ellos podrá g
 - Podrá solicitar cita con el doctor de su preferencia (Mediante el ID del doctor), según la disponibilidad de cada doctor.
 
 ## Diagrama de componentes UML
-
+![DiagramaUML](https://github.com/acominf/ExpeMedic/blob/master/docs/DiagramaComponentes.png)
 ## Diagrama Entidad-Relación 
 ![DiagramaE-R](https://github.com/acominf/ExpeMedic/blob/master/docs/ERDiagram.png)
 
